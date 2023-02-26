@@ -1,1 +1,9 @@
-
+thumbs.db
+build/
+target/
+output/
+release/
+debug/
+*.log
+*~
+*.idea
